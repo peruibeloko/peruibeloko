@@ -1,10 +1,10 @@
 # eae
 
-- Paulistano e Mooquense morando em Santos
+- Paulistano, Mooquense e Juventino
 - Programador e Arquiteto de Software/Soluções
 - Bacharel em Ciências da Computação
 - Minha linguagem principal é TypeScript
-- Atualmente estudando programação funcional no geral
+- Atualmente estudando programação funcional no geral e compiladores
 
 Dá uma olhada no meu [site](https://carlinhos.dev.br/) para mais infos
 
@@ -57,9 +57,6 @@ Isso é uma lista de ideias de projetos que eu gostaria de realizar em algum mom
   - Polyrhythm app
     - Grid view of the pen & paper method for writing out polyrhythms
     - Sound preview
-  - Reese calculator
-    - Figure out detune values for different reese speeds
-    - E.g. A dotted eigth note reese in F2 at 174BPM has two saws detuned by 46 cents
   - Simple visual audio router
     - Captures audio from all running applications
     - Creates a new virtual microphone
