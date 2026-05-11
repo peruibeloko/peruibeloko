@@ -6,7 +6,7 @@
 - Minha linguagem principal é TypeScript
 - Atualmente estudando programação funcional no geral e compiladores
 
-Dá uma olhada no meu [site](https://carlinhos.dev.br/) para mais infos
+Dá uma olhada no meu [site](https://carlinhos.dev/) para mais infos
 
 Se você gosta de barulhos altos, talvez goste das [minhas músicas](https://linktr.ee/dyn.mic)!
 
